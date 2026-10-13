@@ -1,0 +1,1 @@
+The original HAT V1 prototype photograph was supplied in chat on 13 Oct 2026. It shows the purple cap prototype with the electronics mounted on the brim. Binary image upload through the current GitHub connector is not available in the text-file action, so this note preserves the intended asset location.
