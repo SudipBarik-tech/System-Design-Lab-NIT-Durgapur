@@ -1,0 +1,1 @@
+Prototype photograph for HAT V1. Original image supplied by the lab owner in this conversation. Intended GitHub path: `05-Smart-HAT/V1/Images/HAT-V1-Prototype.jpeg`.
